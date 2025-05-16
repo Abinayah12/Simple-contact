@@ -1,0 +1,9 @@
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\bin\Debug\Simple Contact Manager.exe.config
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\bin\Debug\Simple Contact Manager.exe
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\bin\Debug\Simple Contact Manager.pdb
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.csprojResolveAssemblyReference.cache
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple_Contact_Manager.Form1.resources
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple_Contact_Manager.Properties.Resources.resources
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.csproj.GenerateResource.Cache
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.exe
+E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.pdb
