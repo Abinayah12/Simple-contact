@@ -10,3 +10,9 @@ E:\UCJ\2025\SCM Exams\02\Simple Contact Manager\Simple Contact Manager\obj\Debug
 D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\bin\Debug\Simple Contact Manager.exe.config
 D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.exe
 D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.pdb
+D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\bin\Debug\Simple Contact Manager.exe
+D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\bin\Debug\Simple Contact Manager.pdb
+D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.csprojResolveAssemblyReference.cache
+D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple_Contact_Manager.frmContacts.resources
+D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple_Contact_Manager.Properties.Resources.resources
+D:\UCJ\NVQ 6\SCM\practical\Practical2\Simple Contact Manager\Simple Contact Manager\Simple Contact Manager\obj\Debug\Simple Contact Manager.csproj.GenerateResource.Cache
